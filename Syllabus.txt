@@ -1,0 +1,56 @@
+Python First Unit
+
+# Introduction
+	1) What is python
+	2) The application area of python
+
+# Python Basics
+	1) Data types and variables
+	2) Data input
+	3) Comments
+	4) Control statements
+	5) Range
+	6) String
+	7) List, Tuple, Dictionary, Set
+	
+
+# Features :
+	1) Easy to learn and use
+	2) Interpreted language
+	3) OOP language
+	4) Free and Open source 
+	5) Expressive language
+		In order to minimize the number of lines of code, so we need not to write lengthy code to just
+		print some amount of output.
+	6) Cross-platform language
+	7) Large standard library
+	8) GUI programming support
+	9) Dynamic memory allocation
+	
+# Applications areas
+	1) Web Applications
+	2) Desktop GUI Applications
+	3) Software Development
+	4) Scientific and Numeric
+	5) Business Applications
+	6) Audio or Video-based Applications
+	7) Enterprise Applications
+	8) Image processing applications
+
+#Comments -> 
+		1) Single line comments
+		2) Multi lines comments
+		
+# Variables
+# Python variables types
+
+# String in Python
+	--Operations on the String
+		1) Creating a String
+		2) Comparing the String
+		3) Concatenate String
+		4) Accessing String characters
+		5) String Slicing
+		6) Reversing String
+
+# String slicing
