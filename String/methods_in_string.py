@@ -10,3 +10,10 @@ print(my_name.islower())        # test if string contains lowe case
 print(my_name.isspace())        # test if string contains space
 print(my_name.endswith('e'))    # test if string ends with e
 print(my_name.startswith('A'))  # test if string starts with A
+print(my_name[0:]);
+
+print(len(my_name))
+
+num = "123456"
+print(num.count("6")) # return number of occurence
+print(num.find("6")) # return index number
